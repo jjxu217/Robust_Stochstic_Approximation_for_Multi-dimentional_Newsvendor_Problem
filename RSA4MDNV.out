@@ -1,0 +1,71 @@
+RobustSA Algo: 
+0-th Repelication: 
+Solution, 0.95 CI, time : &[0.1746,0.2270] &[-0.8479,-0.8395] &17.64 
+Objective functions = -0.843678
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+1-th Repelication: 
+Solution, 0.95 CI, time : &[0.1735,0.2290] &[-0.8453,-0.8369] &18.06 
+Objective functions = -0.841143
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+2-th Repelication: 
+Solution, 0.95 CI, time : &[0.1727,0.2273] &[-0.8521,-0.8437] &17.68 
+Objective functions = -0.847894
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+3-th Repelication: 
+Solution, 0.95 CI, time : &[0.1734,0.2296] &[-0.8510,-0.8425] &18.12 
+Objective functions = -0.846728
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+4-th Repelication: 
+Solution, 0.95 CI, time : &[0.1714,0.2290] &[-0.8464,-0.8380] &18.59 
+Objective functions = -0.842163
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+5-th Repelication: 
+Solution, 0.95 CI, time : &[0.1730,0.2289] &[-0.8502,-0.8417] &17.95 
+Objective functions = -0.845922
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+6-th Repelication: 
+Solution, 0.95 CI, time : &[0.1715,0.2285] &[-0.8496,-0.8411] &18.16 
+Objective functions = -0.845377
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+7-th Repelication: 
+Solution, 0.95 CI, time : &[0.1752,0.2304] &[-0.8537,-0.8452] &17.90 
+Objective functions = -0.849473
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+8-th Repelication: 
+Solution, 0.95 CI, time : &[0.1705,0.2275] &[-0.8479,-0.8394] &19.08 
+Objective functions = -0.843654
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
+9-th Repelication: 
+Solution, 0.95 CI, time : &[0.1734,0.2283] &[-0.8478,-0.8393] &16.46 
+Objective functions = -0.843542
+NUMofRESOURCE, NUMofPRODUCTION, NUMofROW = 2, 3, 5
+N1, N2 = 10000, 10
+constant step size =  0.000100
+
